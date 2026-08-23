@@ -3,7 +3,8 @@
 ========================================================================
 
 Um overlay de telemetria de hardware e desempenho de alto rendimento (GPU,
-VRAM, CPU, RAM, FPS e Frametimes) para jogos em Realidade Virtual via OpenXR.
+VRAM, CPU, RAM, FPS, FPS Médio, 0.1% Low, Latência e Frametimes) para jogos em
+Realidade Virtual via OpenXR.
 
 Projetado especialmente para simuladores (Automobilista 2, Assetto Corsa,
 Assetto Corsa Competizione, rFactor 2, iRacing, Project CARS, etc.) e 
@@ -20,13 +21,14 @@ headsets Windows Mixed Reality (Samsung Odyssey, Odyssey+, HP Reverb G2, etc.).
 ------------------------------------------------------------------------
 2. ATALHOS DE TECLADO NO COCKPIT (Dentro do VR)
 ------------------------------------------------------------------------
-- Ligar / Desligar Overlay:  Ctrl + Shift + O
-- Aumentar Tamanho (+5%):    Ctrl + Shift + (+)
-- Diminuir Tamanho (-5%):    Ctrl + Shift + (-)
-- Mover para CIMA:           Ctrl + Shift + Seta para Cima
-- Mover para BAIXO:          Ctrl + Shift + Seta para Baixo
-- Mover para a ESQUERDA:     Ctrl + Shift + Seta para Esquerda
-- Mover para a DIREITA:      Ctrl + Shift + Seta para Direita
+- Ligar / Desligar Overlay:       Ctrl + Shift + O
+- Resetar Métricas (Méd/0.1%):    Ctrl + Shift + 0
+- Aumentar Tamanho (+5%):         Ctrl + Shift + (+)
+- Diminuir Tamanho (-5%):         Ctrl + Shift + (-)
+- Mover para CIMA / BAIXO:        Ctrl + Shift + Seta Cima / Baixo
+- Mover para ESQUERDA / DIREITA:  Ctrl + Shift + Seta Esquerda / Direita
+- Aproximar / Afastar (Profund):  Ctrl + Shift + Page Up / Page Down
+- Inclinar para Cima / Baixo:     Ctrl + Shift + Home / End
 
 ------------------------------------------------------------------------
 3. JOGOS COM EASY ANTI-CHEAT (Ex: Le Mans Ultimate)
